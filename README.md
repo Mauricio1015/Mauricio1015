@@ -18,7 +18,7 @@
 - [HTML5] - HTML enhanced for web apps!
 - [CSS] - Excellent for styling pages and web apis!
 - [JavaScript] - Always for the web.
-- [C++] - with the arduino idea.
+- [C++] - with the arduino IDE.
 - [VueJs] - Progressive Fremwor created by the community.
 - [PHP] - web language.
 - [MySQL] - Relationals.
