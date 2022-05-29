@@ -9,8 +9,8 @@
 - ⚡ Fun fact: I'm 16 years old.
 ### My Goal
 - Develop a robot with artificial intelligence capable of providing emotional support to people with depression and anxiety![Mevi]
--Support the education of young people in latam.
--Be the best at what i do
+- Support the education of young people in latam.
+- Be the best at what i do
 ### My  Hobbies❤️
  - 🧑🏽‍🎓 Enjoying learning new things everyday.
  - 👨🏻‍💻 program and build sites.
