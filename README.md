@@ -10,4 +10,5 @@
 - 📫 How to reach me: mauriciocorrea.1015@gmail.com.
 - 😄 Pronouns: mamu1015.
 - ⚡ Fun fact: I'm 16 years old.
-<img str="https://avatars.githubusercontent.com/u/74670802?v=4">
+ ### Stack Technology & Tools
+
