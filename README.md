@@ -11,4 +11,14 @@
 - 😄 Pronouns: mamu1015.
 - ⚡ Fun fact: I'm 16 years old.
  ### Stack Technology & Tools
+- [HTML5] - HTML enhanced for web apps!
+- [CSS] - Excellent for styling pages and web apis!
+- [JavaScript] - Always for the web.
+- [C++] - with the arduino idea.
+- [VueJs] - Progressive Fremwor created by the community.
+- [PHP] - web language.
+- [MySQL] - Relationals.
+- [Git] - Version Control Github and Bitbuckets.
+- [VisulaStudioCode]
+
 
