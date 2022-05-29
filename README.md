@@ -8,7 +8,7 @@
 - 😄 Pronouns: mamu1015.
 - ⚡ Fun fact: I'm 16 years old.
 ### My Goal
-- Develop a robot with artificial intelligence capable of providing emotional support to people with depression and anxiety![Mevi]
+- Develop a robot with artificial intelligence capable of providing emotional support to people with depression and anxiety [Mevi]
 - Support the education of young people in latam.
 - Be the best at what i do
 ### My  Hobbies❤️
