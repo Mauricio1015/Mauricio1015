@@ -7,11 +7,11 @@
 - 📫 How to reach me: mauriciocorrea.1015@gmail.com.
 - 😄 Pronouns: mamu1015.
 - ⚡ Fun fact: I'm 16 years old.
-### My Goal
+### My Goal❤️
 - Develop a robot with artificial intelligence capable of providing emotional support to people with depression and anxiety [Mevi]
 - Support the education of young people in latam.
 - Be the best at what i do
-### My  Hobbies❤️
+### My  Hobbies👨🏻‍💻
  - 🧑🏽‍🎓 Enjoying learning new things everyday.
  - 👨🏻‍💻 program and build sites.
 ### Stack Technology & Tools🤖
